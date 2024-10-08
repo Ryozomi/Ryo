@@ -29,7 +29,7 @@
 
 .section-intro {
     height: 820px;
-    background-image: url(https://github.com/Ryozomi/Ryo/blob/9d7ba639b03153fe752f93c9528e85ef8296ab12/6.jpg);
+    background-image: url(6.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
